@@ -1,3 +1,7 @@
+4.Awesome interview questions
+รายการคำถามสัมภาษณ์ที่รวบรวมไว้อย่างยอดเยี่ยม ด้วยคะแนนมากกว่า 40,000 คน โดยในนี้มีคำถามสัมภาษณ์จำนวนมากในเกือบทุกภาษาการเขียนโปรแกรมและ framework ที่คุณนึกออก
+มีประโยชน์มากหากคุณกำลังเตรียมตัวสำหรับการสัมภาษณ์!
+
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
